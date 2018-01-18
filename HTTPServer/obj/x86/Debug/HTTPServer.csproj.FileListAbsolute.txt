@@ -1,0 +1,21 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Islam\Desktop\Computer Networks\Project\Template[2016-2017]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Islam\Desktop\Computer Networks\Project\Template[2016-2017]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Islam\Desktop\Computer Networks\Project\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Islam\Desktop\Computer Networks\Project\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Islam\Desktop\Computer Networks\Project\Template[2016-2017]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Zaza\Desktop\network\Network-Project-master\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Zaza\Desktop\network\Network-Project\HTTPServer\obj\x86\Debug\HTTPServer.pdb
